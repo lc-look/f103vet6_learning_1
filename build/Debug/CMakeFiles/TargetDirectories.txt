@@ -1,0 +1,5 @@
+/home/lc/STM32Cube/STM32_ws/f103vet6_learning_1/build/Debug/CMakeFiles/f103vet6_learning_1.dir
+/home/lc/STM32Cube/STM32_ws/f103vet6_learning_1/build/Debug/CMakeFiles/edit_cache.dir
+/home/lc/STM32Cube/STM32_ws/f103vet6_learning_1/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/lc/STM32Cube/STM32_ws/f103vet6_learning_1/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/lc/STM32Cube/STM32_ws/f103vet6_learning_1/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
